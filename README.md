@@ -1,0 +1,2 @@
+# bomba
+test bind
